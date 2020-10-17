@@ -2,7 +2,7 @@ from tkinter import *
 
 
 window = Tk()
-window.title("Wight Converter")
+window.title("Weight Converter")
 
 def kilo_c():
     gram = float(e1_val.get())*1000
